@@ -22,7 +22,7 @@ abstract: Attackers upload webshell into a web server to achieve the purpose of
   anomaly session and utilize the statistical method to find the webshell file
   accurately.
 slides: ""
-url_pdf: ""
+url_pdf: "https://downloads.hindawi.com/journals/scn/2019/3093809.pdf"
 publication_types:
   - "2"
 authors:

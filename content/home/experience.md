@@ -22,28 +22,38 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: Ph.D. Candidate
+    company: Nanyang Technological University
+    company_url: 'https://www.ntu.edu.sg'
+    company_logo: NTULogo
+    location: Singapore
+    date_start: '2021-08-10'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Under supervising of [Prof. Liu](https://personal.ntu.edu.sg/yangliu/), focusing on software/source code analysis.
+
+  - title: Undergradute Student
+    company: NUS SoC Summer Workshop
+    company_url: 'https://comp.nus.edu.sg'
+    company_logo: NUSLogo
+    location: Singapore
+    date_start: '2019-07-04'
+    date_end: '2019-08-04'
+    description: |2-
+    Attend SDR related project:
+
+    * Analysing
+    * Programming
+    * Deploying
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Undergraduate Student
+    company: Sichuan University
+    company_url: 'https://www.scu.edu.cn'
+    company_logo: SCULogo
+    location: China
+    date_start: '2017-09-01'
+    date_end: '2021-06-25'
+    description: Undergraduate Student majoring in cybersecurity.
 
 design:
   columns: '2'

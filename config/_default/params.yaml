@@ -20,22 +20,21 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: suny0056@e.ntu.edu.sg
+phone: +65 80327187
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 48 Nanyang Cres, Singapore 637121
+  city: Singapore
+  region: SG
+  postcode: '637121'
+  country: Sinagapore
+  country_code: SG
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '1.3557826867624454'
+  longitude: '103.6861142412591'
+directions: Graduate Hall 2
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - 'It depends'
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
