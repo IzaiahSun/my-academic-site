@@ -39,11 +39,11 @@ experience:
     location: Singapore
     date_start: '2019-07-04'
     date_end: '2019-08-04'
-    description: >-
+    description: |
     Attend SDR related project:
-    * Analysing
-    * Programming
-    * Deploying
+    Analysing
+    Programming
+    Deploying
         
   - title: Undergraduate Student
     company: Sichuan University
