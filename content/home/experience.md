@@ -44,7 +44,7 @@ experience:
       Analysing
       Programming
       Deploying
-        
+
   - title: Undergraduate Student
     company: Sichuan University
     company_url: 'https://www.scu.edu.cn'
