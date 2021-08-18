@@ -41,7 +41,6 @@ experience:
     date_end: '2019-08-04'
     description: >-
     Attend SDR related project:
-
     * Analysing
     * Programming
     * Deploying
