@@ -1,6 +1,6 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Sun Yuqiang
+role: Ph.D. Candidate in Computer Science
 avatar_filename: avatar.jpg
 bio: My research interests include data driven security, source code /
   binary   analysis and security related NLP.
