@@ -40,7 +40,7 @@ experience:
     date_start: '2019-07-04'
     date_end: '2019-08-04'
     description: |
-    Attend SDR related project:
+    Attend SDR related project: 
     Analysing
     Programming
     Deploying
