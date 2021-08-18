@@ -42,9 +42,9 @@ experience:
     description: |2-
     Attend SDR related project:
 
-    * Analysing
-    * Programming
-    * Deploying
+    Analysing
+    Programming
+    Deploying
         
   - title: Undergraduate Student
     company: Sichuan University
