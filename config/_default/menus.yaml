@@ -15,7 +15,7 @@ main:
   #   weight: 30
   - name: Publications
     url: '#publications'
-    weight: 50
+    weight: 30
   - name: News
     url: '#news'
     weight: 40
