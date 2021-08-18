@@ -13,12 +13,12 @@ main:
   # - name: Projects
   #   url: '#projects'
   #   weight: 30
-  - name: News
-    url: '#news'
-    weight: 40
   - name: Publications
     url: '#publications'
     weight: 50
+  - name: News
+    url: '#news'
+    weight: 40
   - name: Contact
     url: '#contact'
     weight: 60
