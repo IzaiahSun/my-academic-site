@@ -5,9 +5,9 @@ avatar_filename: avatar.jpg
 bio: My research interests include data driven security, source code /
   binary   analysis and security related NLP.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Drivin Security
+  - Software Analysis
+  - Security Related NLP
 social:
   - icon: envelope
     icon_pack: fas
