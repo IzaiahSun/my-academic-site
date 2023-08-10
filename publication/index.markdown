@@ -1,0 +1,19 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: single
+classes: wide
+
+# toc: true
+# toc_label: "Table of Contents"
+# toc_icon: "cog"
+
+title: "Publication List"
+date: 2023-08-11 
+
+---
+
+### 2023
+
+- [CCF-A] <a href="" target="_blank"><img src="https://img.shields.io/badge/ASE-2023-blue?style=flat-square"></a> <u>Yuqiang Sun</u>, Zhengzi Xu\*, Chengwei Liu, Yiran Zhang, Yang Liu, &quot;**[Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration](/publication/details/2023/2023contribution)**&quot;. In *Proceedings of the 2023 38th IEEE/ACM International Conference on Automated Software Engineering*. [Please Waiting for Camera Ready Version]

@@ -1,8 +1,5 @@
-# IDEs
-.idea/
-
-# Hugo
-/resources/
-public/
-jsconfig.json
-node_modules/
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
