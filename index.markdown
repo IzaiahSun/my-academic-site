@@ -16,7 +16,7 @@ date: 2023-08-11
 
 <!-- # Yuqiang Sun 孙宇强 -->
 
-Yuqiang Sun (孙宇强 in Chinese) is now a Ph.D. student in Computer Science and Engineering @ Nanyang Technological University, supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/).
+Yuqiang Sun (孙宇强 in Chinese) is now a Ph.D. student in School of Computer Science and Engineering @ Nanyang Technological University, supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/).
 Before Ph.D. study, he got his bachelor degree in Sichuan University.
 His research interests include program analysis, vulnerability detection and patch generation.
 He hopes to collaborate with more innovative researchers on various exciting topics in software engineering, program analysis, vulnerability detection, and program synthesis.
