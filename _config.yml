@@ -44,7 +44,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
+      share: false
       related: true
 
 author:
@@ -117,6 +117,8 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+atom_feed:
+  hide: true
 
 # Markdown Processing
 kramdown:
