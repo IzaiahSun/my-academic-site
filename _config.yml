@@ -84,6 +84,12 @@ author:
   youtube          :
   wikipedia        :
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-6905Z49J6E"
+    anonymize_ip: false # default
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
