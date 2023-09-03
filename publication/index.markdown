@@ -16,4 +16,4 @@ date: 2023-08-11
 
 ### 2023
 
-- [CCF-A] <a href="" target="_blank"><img src="https://img.shields.io/badge/ASE-2023-blue?style=flat-square"></a> <u>Yuqiang Sun</u>, Zhengzi Xu\*, Chengwei Liu, Yiran Zhang, Yang Liu, &quot;**[Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration](/publication/details/2023/2023contribution)**&quot;. In *Proceedings of the 2023 38th IEEE/ACM International Conference on Automated Software Engineering*. [Please Waiting for Camera Ready Version]
+- [CCF-A] [![](https://img.shields.io/badge/ASE-2023-blue?style=flat-square)](https://conf.researchr.org/details/ase-2023/ase-2023-papers/17/Who-is-the-Real-Hero-Measuring-Developer-Contribution-via-Multi-dimensional-Data-Int) <u>Yuqiang Sun</u>, Zhengzi Xu\*, Chengwei Liu, Yiran Zhang, Yang Liu, **[Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration](/publication/details/2023/2023contribution)**. In *Proceedings of the 2023 38th IEEE/ACM International Conference on Automated Software Engineering*. [[arxiv](https://arxiv.org/abs/2308.08991)]

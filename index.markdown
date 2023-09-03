@@ -29,8 +29,9 @@ He hopes to collaborate with more innovative researchers on various exciting top
 
 ### Peer-reviewed
 
-- [CCF-A] <a href="" target="_blank"><img src="https://img.shields.io/badge/ASE-2023-blue?style=flat-square"></a> <u>Yuqiang Sun</u>, Zhengzi Xu\*, Chengwei Liu, Yiran Zhang, Yang Liu, &quot;**[Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration](/publication/details/2023/2023contribution)**&quot;. In *Proceedings of the 2023 38th IEEE/ACM International Conference on Automated Software Engineering*. [Please Waiting for Camera Ready Version]
+- ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ASE-2023-blue?style=flat-square)](https://conf.researchr.org/details/ase-2023/ase-2023-papers/17/Who-is-the-Real-Hero-Measuring-Developer-Contribution-via-Multi-dimensional-Data-Int) <u>Yuqiang Sun</u>, Zhengzi Xu\*, Chengwei Liu, Yiran Zhang, Yang Liu, **[Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration](/publication/details/2023/2023contribution)**. In *Proceedings of the 2023 38th IEEE/ACM International Conference on Automated Software Engineering*. [[arxiv](https://arxiv.org/abs/2308.08991)]
+
 
 ### Preprints
 
-- <a href="https://arxiv.org/abs/2308.03314" target="_blank"><img src="https://img.shields.io/badge/arXiv-2308.03314-B31B1B?style=flat-square"></a> <u>Yuqiang Sun</u>, Daoyuan Wu, Yue Xue, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu, &quot;**When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan**&quot;. *arXiv preprint arXiv:2308.03314*. [[pdf](https://arxiv.org/pdf/2308.03314.pdf)]
+- [![](https://img.shields.io/badge/arXiv-2308.03314-B31B1B?style=flat-square)](https://arxiv.org/abs/2308.03314) <u>Yuqiang Sun</u>, Daoyuan Wu, Yue Xue, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu, **When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan**. *arXiv preprint arXiv:2308.03314*. [[arxiv](https://arxiv.org/abs/2308.03314)]
