@@ -37,6 +37,6 @@ He hopes to collaborate with more innovative researchers on various exciting top
 - [![](https://img.shields.io/badge/arXiv-2308.03314-B31B1B?style=flat-square)](https://arxiv.org/abs/2308.03314) <u>Yuqiang Sun</u>, Daoyuan Wu, Yue Xue, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu, **When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan**. *arXiv preprint arXiv:2308.03314*. [[arxiv](https://arxiv.org/abs/2308.03314)]
 
 
-### Service
+## Service
 
 - Member of USENIX Security 2024 Artifact Evaluation Committee (AEC)
