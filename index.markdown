@@ -40,3 +40,4 @@ He hopes to collaborate with more innovative researchers on various exciting top
 ## Service
 
 - Member of USENIX Security 2024 Artifact Evaluation Committee (AEC)
+- Member of Junior Program Committee of MSR 2024 Technical Papers
