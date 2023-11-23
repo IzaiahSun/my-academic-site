@@ -20,4 +20,5 @@ Proper incentives are important for motivating developers in open-source communi
 
 ## Access
 - arxiv: [https://arxiv.org/abs/2308.08991](https://arxiv.org/abs/2308.08991)
+- IEEE Xplore: [https://ieeexplore.ieee.org/document/10298552/](https://ieeexplore.ieee.org/document/10298552/)
 - ASE Conference Website: [https://conf.researchr.org/details/ase-2023/ase-2023-papers/17/Who-is-the-Real-Hero-Measuring-Developer-Contribution-via-Multi-dimensional-Data-Int](https://conf.researchr.org/details/ase-2023/ase-2023-papers/17/Who-is-the-Real-Hero-Measuring-Developer-Contribution-via-Multi-dimensional-Data-Int)
